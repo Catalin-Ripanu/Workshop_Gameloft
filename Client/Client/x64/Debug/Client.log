@@ -1,6 +1,0 @@
-﻿  Client.cpp
-C:\Multiplayer-Laboratory\Client\Client\Client.cpp(38): warning C4715: 'initialize_win': not all control paths return a value
-C:\Multiplayer-Laboratory\Client\Client\Client.cpp(59): warning C4715: 'close_socket': not all control paths return a value
-C:\Multiplayer-Laboratory\Client\Client\Client.cpp(93): warning C4715: 'send_dt': not all control paths return a value
-C:\Multiplayer-Laboratory\Client\Client\Client.cpp(48): warning C4715: 'create_socket': not all control paths return a value
-  Client.vcxproj -> C:\Multiplayer-Laboratory\Client\x64\Debug\Client.exe
