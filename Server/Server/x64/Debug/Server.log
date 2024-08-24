@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Multiplayer-Laboratory\Server\Server\Server.cpp(167): warning C4715: 'send_dt': not all control paths return a value
+  Server.vcxproj -> C:\Multiplayer-Laboratory\Server\x64\Debug\Server.exe
